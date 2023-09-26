@@ -1,6 +1,5 @@
 
 <h1 aling="center">CALCULADORA WEB</h1>
-<h3 aling="center">Lenguajes utilizados: HTML, CSS y JavaScript</h3>
 <h2>Tecnologías utilizadas</h2>
 <div aline="left">
 <div>
