@@ -1,6 +1,6 @@
 
 <h1 aling="center">CALCULADORA WEB</h1>
-<h2>Tecnologías utilizadas</h2>
+<h2>Tecnologías Utilizadas</h2>
 <div aline="left">
 <div>
 <img src="https://img.icons8.com/color/1x/html-5.png" title="HTML" alt="HTML" width="50" height="50"/>
